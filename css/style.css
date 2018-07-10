@@ -1,0 +1,43 @@
+.service{
+	position: relative;
+	height: 400px;
+	border: 5px solid aqua;
+}
+.service1{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}
+.service2{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 100px;
+	height: 100px;
+	background-color: green;
+}
+.service3{
+	position: absolute;
+    bottom: 0;
+	right: 0;
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}
+.service4{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+}
+.service5{
+	position: absolute;
+	margin:0 auto;
+	width: 22%
+	background-color:blue;
+}
